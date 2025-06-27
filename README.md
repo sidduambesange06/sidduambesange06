@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 About Me<br><br>Hi there! I'm **Siddharoodh (Siddu)** — a passionate and driven Data Science & AI student with a deep interest in solving real-world problems through code, data, and innovation.<br><br>🚀 I'm currently focused on:<br><br>* 🧠 Building impactful AI/ML and Data Science projects<br>* 🌍 Contributing to open-source projects and communities<br>* 🤖 Exploring Generative AI, LangChain, Hugging Face, and more<br>* 📊 Working with large-scale datasets for analytical insights<br>* 🏅 Active IEEE Member (Computer Society & Student Member)<br><br>🔍 Exploring opportunities to collaborate on open-source, research, and cutting-edge AI initiatives.<br>📫 [Let’s connect on LinkedIn](https://www.linkedin.com/in/siddharoodh-ambesange-18a1191ba/)<br>
 
 
